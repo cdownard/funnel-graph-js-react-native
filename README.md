@@ -8,6 +8,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/greghub/funnel-graph-js.svg)
 [![Gitter](https://img.shields.io/gitter/room/greghub/funnel-graph-js.svg)](https://gitter.im/funnel-graph-js/community)
 
+*This is a fork of funnel-graph-js inteneded to be reimplemented in react-native*
+
 Funnel Graph JS is a library for generating a funnel chart. It generates an SVG chart, adds labels, legend and other info.
 Some of the features include generating horizontal and vertical funnel charts, applying solid colors and gradients,
 possibility to generate a two-dimensional funnel chart. 
